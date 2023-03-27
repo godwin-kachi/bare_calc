@@ -5,7 +5,6 @@ Built: 24-03-23
 
 num1 = int(input('Random number 1: '))
 num2 = int(input('Random number 2: '))
-answer = []
 
 def more_evaluation(*num):
     pass
